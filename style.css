@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+
+.header {
+    background-color: blanchedalmond;
+    height: 100px;
+    font-family: 'Quicksand', sans-serif;
+    padding-bottom: 320px;
+}
+
+.header ul {
+    list-style-type: none;
+}
+
+.header li {
+    display: inline-block;
+    text-align: center;
+}
+
+.fullPage1{
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("./assets/Myband.jpg");
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+.centeredImage {
+    display: block;
+    margin: auto;
+    width : 50%;
+}
+
+.centeredText{
+    text-align: center;
+}
